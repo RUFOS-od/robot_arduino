@@ -8,7 +8,7 @@
 // WARNING!!! Make sure that you have either selected ESP32 Wrover Module,
 //            or another board which has PSRAM enabled
 //
-// Adafruit ESP32 Feather
+// Adafruit ESP32 Featherl
 
 // Select camera model
 //#define CAMERA_MODEL_WROVER_KIT
